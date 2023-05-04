@@ -9,4 +9,8 @@
 =======
 # kotki!
 # tashew e npC
+<<<<<<< HEAD
 >>>>>>> 86aff759a11815dc04947c17450002f6cb87aea8
+=======
+## PREKALENO SUM GLADNA
+>>>>>>> 05ae8b8e0c32227f94e51684af2917789918322f
