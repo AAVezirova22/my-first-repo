@@ -6,3 +6,4 @@
 ## real, iva is talasumski bokluk (dobaveno ot nikol)
 # kotki!
 # tashew e npC
+## PREKALENO SUM GLADNA
